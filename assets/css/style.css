@@ -1,0 +1,83 @@
+body{
+    background-color: lightgrey;
+}
+
+.artesanias-turkito{
+    text-align: center;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.quienes-somos{
+    text-align: center;
+    margin-bottom: 2%;
+    }
+
+    .quienes{
+        margin-bottom: 2%;
+    }
+
+.textos{
+    display: flex;
+    justify-content: space-around;
+    }
+
+.parrafo{
+    border: 1px gray solid;
+    width: 45%;
+}    
+
+.imagenes{
+    display: flex;
+    justify-content: space-around;
+    }
+
+.imagenes img{
+    width: 30%;
+}  
+
+.footer{
+    text-align: center;
+    background-color: grey;
+    padding: 2%;
+    margin-top: 2%;
+}
+
+.carousel-item img{
+    height: 500px; 
+    object-fit: contain;   
+}
+
+.carousel{
+    width: 80%;
+    background-color: cadetblue;
+}
+
+.imagen{
+    text-align: center;
+    margin-top: 2%;
+    }
+
+.box-carrusel{
+    display: flex;
+    justify-content: center;
+}    
+
+.lorem{
+    margin-top: 2%;
+}
+
+.div{
+    display: flex;
+    margin-top: 2%;
+    justify-content:space-around;
+}
+
+.div img{
+    width: 300px;
+}
+
+.img{
+    text-align: center;
+    margin-top: 2%;
+}
